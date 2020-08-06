@@ -4,4 +4,5 @@
 
 ## Controls
 Space - Enter character
-Backspace - Remave last character
+
+Backspace - Remove last character
